@@ -30,4 +30,4 @@ Github: https://goo.gl/jPHFPe </br></br>
 
 
 <h3>Screenshot</h3> </br>
-![alt text](Support/1.png "Scene1")
+![alt text](Support/1.PNG "Scene1")
